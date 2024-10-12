@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Junior-Jurado
+- 👀 I’m interested in backend development, software architecture, and solving complex problems.
+- 🌱 I’m currently learning advanced Power BI in my Business Analytics course and improving my skills in Go, Node.js, NestJS, Java, and Python.
+- 💞️ I’m looking to collaborate on projects related to software architecture, data analytics, and backend systems.
+- 📫 How to reach me: You can contact me via email at germanjurado@example.com or connect with me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing futsal and enjoy participating in logic programming challenges!
